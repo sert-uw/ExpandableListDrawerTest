@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nav_parent">
+        <item>List1</item>
+        <item>List2</item>
+        <item>List3</item>
+    </string-array>
+
+    <string-array name="nav_child0">
+        <item>item1_1</item>
+        <item>item1_2</item>
+        <item>item1_3</item>
+    </string-array>
+
+    <string-array name="nav_child1">
+        <item>item2_1</item>
+        <item>item2_2</item>
+        <item>item2_3</item>
+    </string-array>
+
+    <string-array name="nav_child2">
+        <item>item3_1</item>
+        <item>item3_2</item>
+        <item>item3_3</item>
+    </string-array>
+</resources>
